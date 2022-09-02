@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"start": "directus start"
+	},
+	"dependencies": {
+		"directus": "^9.16.1"
+	}
+}
